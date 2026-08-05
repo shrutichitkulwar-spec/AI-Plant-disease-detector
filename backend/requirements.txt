@@ -7,3 +7,4 @@ python-multipart
 numpy
 google-generativeai
 python-dotenv
+groq
