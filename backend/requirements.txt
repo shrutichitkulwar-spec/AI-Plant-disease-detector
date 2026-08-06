@@ -7,4 +7,4 @@ python-multipart
 numpy
 google-generativeai
 python-dotenv
-groq
+groq>=0.9.0
